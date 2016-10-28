@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="az">a_z</string>
+    <string name="ay">a_y</string>
+    <string name="ax">a_x</string>
+    <string name="e">e</string>
+    <string name="zaxis">Z axis</string>
+    <string name="yaxis">Y axis</string>
+    <string name="xaxis">X axis</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+</resources>
